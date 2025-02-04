@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log
+
+# Logs
+logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# React Native specific
+.expo/
+.expo-shared/
+*.expo
+*.expo-shared
+android/app/build/
+ios/Pods/
+ios/.DS_Store
+
+# Metro bundler cache
+metro-cache/
+.cache/
+
+# Misc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git files
+.git/
+.gitignore
+
+# Debugging files
+*.lock
+
